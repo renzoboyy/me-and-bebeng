@@ -1,0 +1,9 @@
+server.properties
+usercache.json
+usernamecache.json
+ops.json
+whitelist.json
+logs/
+server.jar
+.fabric
+session.lock
