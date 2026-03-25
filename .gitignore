@@ -7,3 +7,7 @@ logs/
 server.jar
 .fabric
 session.lock
+
+world/
+world_nether/
+world_end/
