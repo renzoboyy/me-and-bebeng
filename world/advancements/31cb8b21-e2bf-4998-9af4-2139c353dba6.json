@@ -251,18 +251,6 @@
     },
     "done": true
   },
-  "vanillatweaks:double_shulker_shells": {
-    "criteria": {
-      "tick": "2025-10-24 00:34:35 +0800"
-    },
-    "done": true
-  },
-  "vanillatweaks:painting_picker": {
-    "criteria": {
-      "tick": "2025-10-24 00:34:35 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_string": "2025-10-24 00:34:35 +0800"
@@ -284,12 +272,6 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-10-24 00:34:35 +0800"
-    },
-    "done": true
-  },
-  "vanillatweaks:armored_elytra": {
-    "criteria": {
-      "tick": "2025-10-24 00:34:35 +0800"
     },
     "done": true
   },
@@ -649,17 +631,21 @@
       "minecraft:skeleton": "2025-10-24 17:00:37 +0800",
       "minecraft:elder_guardian": "2025-11-04 17:47:23 +0800",
       "minecraft:parched": "2026-03-21 18:39:29 +0800",
+      "minecraft:ravager": "2026-03-26 17:00:27 +0800",
       "minecraft:bogged": "2025-10-30 22:40:21 +0800",
       "minecraft:ghast": "2025-10-29 19:53:26 +0800",
       "minecraft:hoglin": "2025-10-29 18:38:59 +0800",
       "minecraft:camel_husk": "2026-03-21 18:39:42 +0800",
       "minecraft:guardian": "2025-11-04 17:47:35 +0800",
+      "minecraft:vindicator": "2026-03-26 16:04:13 +0800",
+      "minecraft:zombie_horse": "2026-03-29 15:13:13 +0800",
       "minecraft:magma_cube": "2025-10-31 00:13:27 +0800",
       "minecraft:spider": "2025-10-24 16:51:26 +0800",
       "minecraft:piglin_brute": "2025-10-31 11:02:43 +0800",
       "minecraft:creeper": "2025-10-24 16:51:07 +0800",
       "minecraft:wither": "2025-10-31 00:54:43 +0800",
       "minecraft:slime": "2025-10-30 22:40:48 +0800",
+      "minecraft:evoker": "2026-03-26 16:04:13 +0800",
       "minecraft:zombie_nautilus": "2026-03-15 21:11:22 +0800",
       "minecraft:phantom": "2025-10-25 23:31:25 +0800",
       "minecraft:zombified_piglin": "2025-10-25 16:41:54 +0800",
@@ -673,6 +659,7 @@
       "minecraft:enderman": "2025-10-24 21:48:00 +0800",
       "minecraft:silverfish": "2025-10-25 16:54:36 +0800",
       "minecraft:endermite": "2025-10-24 21:53:16 +0800",
+      "minecraft:vex": "2026-03-26 16:04:16 +0800",
       "minecraft:zombie": "2025-10-24 17:00:48 +0800",
       "minecraft:drowned": "2025-10-24 22:39:01 +0800",
       "minecraft:zombie_villager": "2025-10-24 21:40:54 +0800"
@@ -6508,12 +6495,6 @@
     },
     "done": true
   },
-  "painting_picker:recipes/paintings": {
-    "criteria": {
-      "has_item": "2026-03-15 22:51:55 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
       "has_purpur_block": "2026-03-21 21:29:41 +0800"
@@ -6708,19 +6689,151 @@
   },
   "jodek:mobs": {
     "criteria": {
-      "tick": "2026-03-25 08:40:28 +0800"
+      "tick": "2026-03-26 09:29:15 +0800"
     },
     "done": true
   },
   "jodek:no_enderman_grief": {
     "criteria": {
-      "tick": "2026-03-25 08:40:28 +0800"
+      "tick": "2026-03-26 09:29:15 +0800"
     },
     "done": true
   },
   "jodek:root": {
     "criteria": {
-      "tick": "2026-03-25 08:40:28 +0800"
+      "tick": "2026-03-26 09:29:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2026-03-26 09:44:42 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2026-03-26 14:21:57 +0800"
+    },
+    "done": true
+  },
+  "vanillatweaks:silence_mobs": {
+    "criteria": {
+      "tick": "2026-03-26 14:30:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2026-03-26 16:37:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2026-03-26 18:28:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2026-03-27 01:44:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2026-03-27 07:25:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2026-03-27 07:26:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2026-03-27 17:39:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2026-03-27 17:39:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2026-04-02 16:40:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2026-04-03 18:40:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2026-04-03 18:40:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2026-04-03 18:40:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2026-04-03 18:40:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff": {
+    "criteria": {
+      "has_tuff_slab": "2026-04-04 09:21:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks": {
+    "criteria": {
+      "has_tuff_brick_slab": "2026-04-04 09:21:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_lightning_rod_from_honeycomb": {
+    "criteria": {
+      "has_lightning_rod": "2026-04-04 09:39:25 +0800"
+    },
+    "done": true
+  },
+  "vanillatweaks:player_head_drops": {
+    "criteria": {
+      "tick": "2026-04-05 18:31:47 +0800"
+    },
+    "done": true
+  },
+  "vanillatweaks:armored_elytra": {
+    "criteria": {
+      "tick": "2026-04-05 18:31:47 +0800"
+    },
+    "done": true
+  },
+  "vanillatweaks:name_colors": {
+    "criteria": {
+      "tick": "2026-04-05 18:31:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2026-04-08 10:00:37 +0800"
     },
     "done": true
   },
