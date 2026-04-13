@@ -3,7 +3,7 @@
 Welcome to the **"jejed and bebeng! ♥♥"** Minecraft Server! This is a Fabric-based survival server for Minecraft 1.21.11, configured for two players (me and bebeng :D). It includes performance optimizations, crossplay support, and quality-of-life enhancements. <br>
 <br>This server's IP configuration is networked via **Tailscale**, which is available for Windows and iOS, which jejed and bebeng use to play Minecraft with. Tailscale acts as a VPN from jejed's PC, which is hosting the server, to bebeng's iOS Device. <br><br>
 
-Unfortunately, the world is not part of the commit as it is too big for a GitHub repository. To circumvent this, I uploaded a separate world backup download you can check out [here.](meandbebeng.fatdonut380.workers.dev)
+Unfortunately, the world is not part of the commit as it is too big for a GitHub repository. To circumvent this, I uploaded a separate world backup download you can check out [here.](https://meandbebeng.fatdonut380.workers.dev)
 
 ## Server Details
 - **Minecraft Version:** 1.21.11
