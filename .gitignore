@@ -7,6 +7,7 @@ logs/
 server.jar
 .fabric
 session.lock
+world/
 world/advancements/
 world/data/
 world/datapacks/
@@ -25,7 +26,8 @@ world_nether/DIM-1/data/
 world_nether/DIM-1/entities/
 world_nether/DIM-1/poi/
 world_nether/DIM-1/region/
-world_end/DIM-1/data/
-world_end/DIM-1/entities/
-world_end/DIM-1/poi/
-world_end/DIM-1/region/
+world_the_end/
+world_the_end/DIM-1/data/
+world_the_end/DIM-1/entities/
+world_the_end/DIM-1/poi/
+world_the_end/DIM-1/region/
